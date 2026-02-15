@@ -18,6 +18,6 @@
 💻 Programming Languages 
 ---
 
-C, C++, Java, Python, HTML, CSS, Flask (Basic)
+C, Java, Python, HTML, CSS, Flask (Basic)
 
 
