@@ -1,5 +1,5 @@
-# Heyy there, I'm Daksh R Laxetti👋
-- 🚀 Studying B.Tech in CSBS (Computer Science + Business Systems)
+# Heyy there, I'm Daksh 👋
+- 🚀 Studying B.Tech 
 
 - 🌱 Always learning and exploring new technologies.
 
