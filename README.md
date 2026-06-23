@@ -3,9 +3,7 @@
 
 - 🌱 Always learning and exploring new technologies.
 
-- 🧠 Passionate about Data Analysis & Data Science.
 
-- 📰 Up to date on all the latest AI models.
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/laxetti-daksh/)
 
