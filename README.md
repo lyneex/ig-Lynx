@@ -10,7 +10,7 @@
 📊 Github Stats  
 ----  
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ig-Lynx&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-Lynx&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyneex&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-Lynx&layout=compact&theme=radical)
 
 
 💻 Programming Languages 
